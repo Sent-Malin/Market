@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Market.Init/1.0.0": {
+        "dependencies": {
+          "Market": "1.0.0"
+        },
+        "runtime": {
+          "Market.Init.dll": {}
+        }
+      },
+      "Market/1.0.0": {
+        "runtime": {
+          "Market.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Market.Init/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Market/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

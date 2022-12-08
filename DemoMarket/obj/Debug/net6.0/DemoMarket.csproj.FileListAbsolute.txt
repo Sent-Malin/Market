@@ -1,0 +1,54 @@
+C:\Users\dimae\source\repos\Market\DemoMarket\bin\Debug\net6.0\DemoMarket.exe
+C:\Users\dimae\source\repos\Market\DemoMarket\bin\Debug\net6.0\DemoMarket.deps.json
+C:\Users\dimae\source\repos\Market\DemoMarket\bin\Debug\net6.0\DemoMarket.runtimeconfig.json
+C:\Users\dimae\source\repos\Market\DemoMarket\bin\Debug\net6.0\DemoMarket.dll
+C:\Users\dimae\source\repos\Market\DemoMarket\bin\Debug\net6.0\DemoMarket.pdb
+C:\Users\dimae\source\repos\Market\DemoMarket\bin\Debug\net6.0\Market.dll
+C:\Users\dimae\source\repos\Market\DemoMarket\bin\Debug\net6.0\Market.pdb
+C:\Users\dimae\source\repos\Market\DemoMarket\obj\Debug\net6.0\DemoMarket.csproj.AssemblyReference.cache
+C:\Users\dimae\source\repos\Market\DemoMarket\obj\Debug\net6.0\DemoMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimae\source\repos\Market\DemoMarket\obj\Debug\net6.0\DemoMarket.AssemblyInfoInputs.cache
+C:\Users\dimae\source\repos\Market\DemoMarket\obj\Debug\net6.0\DemoMarket.AssemblyInfo.cs
+C:\Users\dimae\source\repos\Market\DemoMarket\obj\Debug\net6.0\DemoMarket.csproj.CoreCompileInputs.cache
+C:\Users\dimae\source\repos\Market\DemoMarket\obj\Debug\net6.0\DemoMarket.csproj.CopyComplete
+C:\Users\dimae\source\repos\Market\DemoMarket\obj\Debug\net6.0\DemoMarket.dll
+C:\Users\dimae\source\repos\Market\DemoMarket\obj\Debug\net6.0\refint\DemoMarket.dll
+C:\Users\dimae\source\repos\Market\DemoMarket\obj\Debug\net6.0\DemoMarket.pdb
+C:\Users\dimae\source\repos\Market\DemoMarket\obj\Debug\net6.0\DemoMarket.genruntimeconfig.cache
+C:\Users\dimae\source\repos\Market\DemoMarket\obj\Debug\net6.0\ref\DemoMarket.dll
+D:\GrowArchive\Диплом\Программа, ver-1\Правила игры\Market\DemoMarket\bin\Debug\net6.0\DemoMarket.exe
+D:\GrowArchive\Диплом\Программа, ver-1\Правила игры\Market\DemoMarket\bin\Debug\net6.0\DemoMarket.deps.json
+D:\GrowArchive\Диплом\Программа, ver-1\Правила игры\Market\DemoMarket\bin\Debug\net6.0\DemoMarket.runtimeconfig.json
+D:\GrowArchive\Диплом\Программа, ver-1\Правила игры\Market\DemoMarket\bin\Debug\net6.0\DemoMarket.dll
+D:\GrowArchive\Диплом\Программа, ver-1\Правила игры\Market\DemoMarket\bin\Debug\net6.0\DemoMarket.pdb
+D:\GrowArchive\Диплом\Программа, ver-1\Правила игры\Market\DemoMarket\bin\Debug\net6.0\Market.dll
+D:\GrowArchive\Диплом\Программа, ver-1\Правила игры\Market\DemoMarket\bin\Debug\net6.0\Market.pdb
+D:\GrowArchive\Диплом\Программа, ver-1\Правила игры\Market\DemoMarket\obj\Debug\net6.0\DemoMarket.csproj.AssemblyReference.cache
+D:\GrowArchive\Диплом\Программа, ver-1\Правила игры\Market\DemoMarket\obj\Debug\net6.0\DemoMarket.GeneratedMSBuildEditorConfig.editorconfig
+D:\GrowArchive\Диплом\Программа, ver-1\Правила игры\Market\DemoMarket\obj\Debug\net6.0\DemoMarket.AssemblyInfoInputs.cache
+D:\GrowArchive\Диплом\Программа, ver-1\Правила игры\Market\DemoMarket\obj\Debug\net6.0\DemoMarket.AssemblyInfo.cs
+D:\GrowArchive\Диплом\Программа, ver-1\Правила игры\Market\DemoMarket\obj\Debug\net6.0\DemoMarket.csproj.CoreCompileInputs.cache
+D:\GrowArchive\Диплом\Программа, ver-1\Правила игры\Market\DemoMarket\obj\Debug\net6.0\DemoMarket.csproj.CopyComplete
+D:\GrowArchive\Диплом\Программа, ver-1\Правила игры\Market\DemoMarket\obj\Debug\net6.0\DemoMarket.dll
+D:\GrowArchive\Диплом\Программа, ver-1\Правила игры\Market\DemoMarket\obj\Debug\net6.0\refint\DemoMarket.dll
+D:\GrowArchive\Диплом\Программа, ver-1\Правила игры\Market\DemoMarket\obj\Debug\net6.0\DemoMarket.pdb
+D:\GrowArchive\Диплом\Программа, ver-1\Правила игры\Market\DemoMarket\obj\Debug\net6.0\DemoMarket.genruntimeconfig.cache
+D:\GrowArchive\Диплом\Программа, ver-1\Правила игры\Market\DemoMarket\obj\Debug\net6.0\ref\DemoMarket.dll
+D:\GrowArchive\Диплом\Программа, ver-2\Правила игры\Market\DemoMarket\bin\Debug\net6.0\DemoMarket.exe
+D:\GrowArchive\Диплом\Программа, ver-2\Правила игры\Market\DemoMarket\bin\Debug\net6.0\DemoMarket.deps.json
+D:\GrowArchive\Диплом\Программа, ver-2\Правила игры\Market\DemoMarket\bin\Debug\net6.0\DemoMarket.runtimeconfig.json
+D:\GrowArchive\Диплом\Программа, ver-2\Правила игры\Market\DemoMarket\bin\Debug\net6.0\DemoMarket.dll
+D:\GrowArchive\Диплом\Программа, ver-2\Правила игры\Market\DemoMarket\bin\Debug\net6.0\DemoMarket.pdb
+D:\GrowArchive\Диплом\Программа, ver-2\Правила игры\Market\DemoMarket\bin\Debug\net6.0\Market.dll
+D:\GrowArchive\Диплом\Программа, ver-2\Правила игры\Market\DemoMarket\bin\Debug\net6.0\Market.pdb
+D:\GrowArchive\Диплом\Программа, ver-2\Правила игры\Market\DemoMarket\obj\Debug\net6.0\DemoMarket.csproj.AssemblyReference.cache
+D:\GrowArchive\Диплом\Программа, ver-2\Правила игры\Market\DemoMarket\obj\Debug\net6.0\DemoMarket.GeneratedMSBuildEditorConfig.editorconfig
+D:\GrowArchive\Диплом\Программа, ver-2\Правила игры\Market\DemoMarket\obj\Debug\net6.0\DemoMarket.AssemblyInfoInputs.cache
+D:\GrowArchive\Диплом\Программа, ver-2\Правила игры\Market\DemoMarket\obj\Debug\net6.0\DemoMarket.AssemblyInfo.cs
+D:\GrowArchive\Диплом\Программа, ver-2\Правила игры\Market\DemoMarket\obj\Debug\net6.0\DemoMarket.csproj.CoreCompileInputs.cache
+D:\GrowArchive\Диплом\Программа, ver-2\Правила игры\Market\DemoMarket\obj\Debug\net6.0\DemoMarket.csproj.CopyComplete
+D:\GrowArchive\Диплом\Программа, ver-2\Правила игры\Market\DemoMarket\obj\Debug\net6.0\DemoMarket.dll
+D:\GrowArchive\Диплом\Программа, ver-2\Правила игры\Market\DemoMarket\obj\Debug\net6.0\refint\DemoMarket.dll
+D:\GrowArchive\Диплом\Программа, ver-2\Правила игры\Market\DemoMarket\obj\Debug\net6.0\DemoMarket.pdb
+D:\GrowArchive\Диплом\Программа, ver-2\Правила игры\Market\DemoMarket\obj\Debug\net6.0\DemoMarket.genruntimeconfig.cache
+D:\GrowArchive\Диплом\Программа, ver-2\Правила игры\Market\DemoMarket\obj\Debug\net6.0\ref\DemoMarket.dll

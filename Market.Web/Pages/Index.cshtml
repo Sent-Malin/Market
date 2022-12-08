@@ -1,0 +1,91 @@
+﻿@page
+@using Market_Web.Pages
+@using Microsoft.AspNetCore.SignalR;
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+<link rel="stylesheet" type="text/css" href=~/css/gameStyle.css?2 />
+<body>
+    <div class="container-my">
+        <article class="game-playground">
+            <div class="left-column">
+                <div class="calendar">
+                    <table>
+                        <tr><div style="text-align: center;">Календарь</div></tr>
+                        <tr>
+                            <th>Янв</th>
+                            <th>Фев</th>
+                            <th>Мар</th>
+                            <th>Апр</th>
+                        </tr>
+                        <tr>
+                            <th>Май</th>
+                            <th>Июн</th>
+                            <th>Июл</th>
+                            <th>Авг</th>
+                        </tr>
+                        <tr>
+                            <th>Сен</th>
+                            <th>Окт</th>
+                            <th>Ноя</th>
+                            <th>Дек</th>
+                        </tr>
+                    </table>
+                </div>
+                <div class="timer">
+                    <div class="timer-title">
+                        время на ход
+                    </div>
+                    <div class="timer-text">
+                        2:30
+                    </div>
+                </div>
+                <div class="news"></div>
+            </div>
+            <div class="right-column">
+                <div class="resource-part">
+                    <div class="resource-line">
+                        <div class="one-resource">Pers: 10 </div><div class="line">|</div>
+                        <div class="one-resource">Bank: 10000 </div><div class="line">|</div>
+                        <div class="one-resource">Prof: 1024 </div><div class="line">|</div>
+                        <div class="one-resource">Sale: 800 </div><div class="line">|</div>
+                        <div class="one-resource">Repu: 100</div>
+                    </div>
+                </div>
+                <div class="center-rectangle">
+                    <div class="left-side-rectangle">
+                        <div class="center"></div>
+                        <div id="chat" class="chat">
+                            <div class="chat-text" id="chat-text"></div>
+                            <div class="chat-input" id="inputForm">
+                                <input type="text" id="message" />
+                                <input type="button" id="sendBtn" value="Отправить" disabled="disabled" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="right-side-rectangle">
+                        <button class="button" id="materialBtn"><img src="img/material_icon.png" /></button>
+                        <button class="button" id="fuelBtn"><img src="img/fuel_icon.png" /></button>
+                        <button class="button" id="transportBtn"><img src="img/transport_icon.png" /></button>
+                        <button class="button" id="searchBtn"><img src="img/contract_icon.png" /></button>
+                    </div>
+                </div>
+            </div>
+        </article>
+        <article class="game-lobby">
+            <div class="list-room" id="rooms">
+
+            </div>
+            <div class="create-section">
+                <input type="text" id="nameLobbyInput" class="gameLobbyInputName" placeholder="Enter name lobby" autofocus />
+                <div class ="createButtonDiv">
+                    <button class="createButton" id="createRoomBtn">Create room</button>
+                </div>
+            </div>
+        </article>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/6.0.1/signalr.js"></script>
+    <script src="~/wwwroot/js/site.js"></script>
+</body>
+

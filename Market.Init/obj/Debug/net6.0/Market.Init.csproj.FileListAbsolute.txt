@@ -1,0 +1,15 @@
+D:\GrowArchive\Диплом\Программа, ver-2\Правила игры\Market\Market.Init\bin\Debug\net6.0\Market.Init.deps.json
+D:\GrowArchive\Диплом\Программа, ver-2\Правила игры\Market\Market.Init\bin\Debug\net6.0\Market.Init.dll
+D:\GrowArchive\Диплом\Программа, ver-2\Правила игры\Market\Market.Init\bin\Debug\net6.0\Market.Init.pdb
+D:\GrowArchive\Диплом\Программа, ver-2\Правила игры\Market\Market.Init\bin\Debug\net6.0\Market.dll
+D:\GrowArchive\Диплом\Программа, ver-2\Правила игры\Market\Market.Init\bin\Debug\net6.0\Market.pdb
+D:\GrowArchive\Диплом\Программа, ver-2\Правила игры\Market\Market.Init\obj\Debug\net6.0\Market.Init.csproj.AssemblyReference.cache
+D:\GrowArchive\Диплом\Программа, ver-2\Правила игры\Market\Market.Init\obj\Debug\net6.0\Market.Init.GeneratedMSBuildEditorConfig.editorconfig
+D:\GrowArchive\Диплом\Программа, ver-2\Правила игры\Market\Market.Init\obj\Debug\net6.0\Market.Init.AssemblyInfoInputs.cache
+D:\GrowArchive\Диплом\Программа, ver-2\Правила игры\Market\Market.Init\obj\Debug\net6.0\Market.Init.AssemblyInfo.cs
+D:\GrowArchive\Диплом\Программа, ver-2\Правила игры\Market\Market.Init\obj\Debug\net6.0\Market.Init.csproj.CoreCompileInputs.cache
+D:\GrowArchive\Диплом\Программа, ver-2\Правила игры\Market\Market.Init\obj\Debug\net6.0\Market.Init.csproj.CopyComplete
+D:\GrowArchive\Диплом\Программа, ver-2\Правила игры\Market\Market.Init\obj\Debug\net6.0\Market.Init.dll
+D:\GrowArchive\Диплом\Программа, ver-2\Правила игры\Market\Market.Init\obj\Debug\net6.0\refint\Market.Init.dll
+D:\GrowArchive\Диплом\Программа, ver-2\Правила игры\Market\Market.Init\obj\Debug\net6.0\Market.Init.pdb
+D:\GrowArchive\Диплом\Программа, ver-2\Правила игры\Market\Market.Init\obj\Debug\net6.0\ref\Market.Init.dll

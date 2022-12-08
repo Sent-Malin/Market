@@ -1,0 +1,202 @@
+﻿body {
+}
+
+.container-my {
+    border: 4px outset gray;
+    height: 100%;
+    width: 70%;
+    min-height: 600px;
+    min-width: 300px;
+    margin: 0 auto;
+}
+
+.game-playground {
+    display: none;
+    justify-content: space-between;
+}
+
+.left-column {
+    height: 100%;
+    width: 30%;
+}
+
+.calendar {
+    margin-top: 10px;
+    margin-left: 10px;
+    border: 2px solid black;
+    max-width: 200px;
+    height: 160px;
+}
+
+tr{
+    text-align: center;
+}
+
+th {
+    text-align: center;
+    border-right: 2px solid gray;
+    border-left: 2px solid gray;
+    width: 50px;
+    height: 40px;
+}
+
+.timer {
+    margin-left: 10px;
+    margin-top: 10px;
+    height: 75px;
+    max-width: 200px;
+    border: 2px solid gray;
+}
+
+.timer-title{
+    text-align:center;
+    font-size: 18px;
+    height: 25px;
+}
+
+.timer-text {
+    text-align: center;
+    font-size: 30px;
+    height: 50px;
+}
+
+.news {
+    margin-left: 10px;
+    margin-top: 10px;
+    max-width: 200px;
+    height: 325px;
+    border: 2px solid gray;
+}
+
+.right-column {
+    width: 70%;
+    height: 100%;
+}
+
+.resource-part {    
+}
+
+.resource-line {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-right: 15%;
+    margin-left: auto;
+    min-height: 40px;
+    width: 80%;
+    border: 2px solid gray;
+}
+
+.one-resource{
+    margin-top: 5px;
+    width: 20%;
+    text-align: center;
+}
+
+.line{
+    font-size: 20px;
+}
+
+.center-rectangle {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 550px;
+}
+
+.left-side-rectangle{
+    width: 80%;
+    margin-left: 5%;
+}
+
+.center{
+    height: 340px;
+}
+
+.chat {
+    margin-top: 55%;
+    height: 200px;
+    margin-top: auto;
+    padding-top: 15px;
+    padding-inline: 15px;
+    border: 2px solid black;
+}
+
+.chat-text {
+    overflow-y: auto;
+    height: 145px;
+}
+
+.chat-input {
+    margin-top: 3px;
+}
+
+.right-side-rectangle {
+    width: 10%;
+    height: 100%;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    width: 75%;
+    max-width: 50px;
+    padding-top: 15px;
+    height: 70px;
+    margin-top: 50px;
+    margin-left: 29%;
+    border-radius: 7px 2px 2px 7px;
+}
+
+.game-lobby {
+    padding: 15px;
+    width: 100%;
+    height: 600px;
+}
+
+.list-room {
+    height: 400px;
+}
+
+.roomItem {
+    display: flex;
+    justify-content: center;
+    border: 2px solid gray;
+    min-height: 60px;
+    width: 60%;
+    padding: 10px;
+}
+
+.gameLobbyRoomName{
+    font-size: 17px;
+    margin-top: 6px;
+    width: 60%;
+}
+
+.gameLobbyRoomJoinBtn{
+    width: 20%;
+    margin-left: 20%;
+}
+
+.create-section {
+    display: flex;
+    justify-content: center;
+    min-height: 50px;
+    padding: 15px;
+    text-align: center;
+}
+
+.gameLobbyInputName {
+    width: 30%;
+    min-height: 50px;
+}
+
+.createButtonDiv {
+    width: 30%;
+    font-size: 20px;
+}
+
+.createButton {
+    width: 100%;
+    height: 100%;
+}
