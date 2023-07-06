@@ -57,7 +57,7 @@ namespace Market_Init
                 return c;
             }
             New planGovermentCheck = new New("Плановая проверка!", "Через 4 месяца ожидается проверка условий работы персонала, если" +
-                "значение персонала будет меньше 10, будет наложен штраф в 200 долларов.", PlanGovermentCheck);
+                "значение персонала будет меньше 10, будет наложен штраф в 200 монет.", PlanGovermentCheck);
             return planGovermentCheck;
         }
 
@@ -77,8 +77,8 @@ namespace Market_Init
                 companies[max].Bank -= 200;
                 return null;
             }
-            New govermentAntiMonopoly = new New("Антимонопольное регулирование!", "200 долларов компании с самыми высокими показателями прибыли" +
-                "будут перераспределены в пользу компании с самыми низкими прибылями", GovermentAntiMonopoly);
+            New govermentAntiMonopoly = new New("Антимонопольное регулирование!", "200 монет компании с самыми высокими показателями прибыли" +
+                "будут перераспределены в пользу компании с самыми низкими прибылями.", GovermentAntiMonopoly);
             return govermentAntiMonopoly;
         }
         public static New GovermentGrantNew()
@@ -94,7 +94,7 @@ namespace Market_Init
                 companies[max].Bank += 200;
                 return null;
             }
-            New govermentGrant = new New("Государственный грант!", "200 долларов будут выданы компании с самой высокой репутацией", GovermentGrant);
+            New govermentGrant = new New("Государственный грант!", "200 монет будут выданы компании с самой высокой репутацией.", GovermentGrant);
             return govermentGrant;
         }
 

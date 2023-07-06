@@ -1,0 +1,14 @@
+D:\GrowArchive\Диплом\Программа, ver-2\Правила игры\Market\Market.Web\obj\Release\net6.0\PubTmp\Out\Market_Web.exe
+D:\GrowArchive\Диплом\Программа, ver-2\Правила игры\Market\Market.Web\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\GrowArchive\Диплом\Программа, ver-2\Правила игры\Market\Market.Web\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\GrowArchive\Диплом\Программа, ver-2\Правила игры\Market\Market.Web\obj\Release\net6.0\PubTmp\Out\package-lock.json
+D:\GrowArchive\Диплом\Программа, ver-2\Правила игры\Market\Market.Web\obj\Release\net6.0\PubTmp\Out\package.json
+D:\GrowArchive\Диплом\Программа, ver-2\Правила игры\Market\Market.Web\obj\Release\net6.0\PubTmp\Out\Market_Web.dll
+D:\GrowArchive\Диплом\Программа, ver-2\Правила игры\Market\Market.Web\obj\Release\net6.0\PubTmp\Out\Market_Web.deps.json
+D:\GrowArchive\Диплом\Программа, ver-2\Правила игры\Market\Market.Web\obj\Release\net6.0\PubTmp\Out\Market_Web.runtimeconfig.json
+D:\GrowArchive\Диплом\Программа, ver-2\Правила игры\Market\Market.Web\obj\Release\net6.0\PubTmp\Out\Market_Web.pdb
+D:\GrowArchive\Диплом\Программа, ver-2\Правила игры\Market\Market.Web\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\GrowArchive\Диплом\Программа, ver-2\Правила игры\Market\Market.Web\obj\Release\net6.0\PubTmp\Out\Market_Init.dll
+D:\GrowArchive\Диплом\Программа, ver-2\Правила игры\Market\Market.Web\obj\Release\net6.0\PubTmp\Out\Market_Rules.dll
+D:\GrowArchive\Диплом\Программа, ver-2\Правила игры\Market\Market.Web\obj\Release\net6.0\PubTmp\Out\Market_Init.pdb
+D:\GrowArchive\Диплом\Программа, ver-2\Правила игры\Market\Market.Web\obj\Release\net6.0\PubTmp\Out\Market_Rules.pdb

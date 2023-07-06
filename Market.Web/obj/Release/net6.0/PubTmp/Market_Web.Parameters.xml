@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="PublishASPCoreTest" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\GrowArchive\\Диплом\\Программа,\ ver-3\\Правила\ игры\\Market\\Market\.Web\\obj\\Release\\net6\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

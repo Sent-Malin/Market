@@ -1,0 +1,319 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\Market_Web.csproj": {}
+  },
+  "projects": {
+    "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Data\\Market.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Data\\Market.Data.csproj",
+        "projectName": "Market.Data",
+        "projectPath": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Data\\Market.Data.csproj",
+        "packagesPath": "C:\\Users\\dimae\\.nuget\\packages\\",
+        "outputPath": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dimae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Init\\Market_Init.csproj": {
+                "projectPath": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Init\\Market_Init.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "CSharpVitamins.ShortGuid": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Init\\Market_Init.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Init\\Market_Init.csproj",
+        "projectName": "Market_Init",
+        "projectPath": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Init\\Market_Init.csproj",
+        "packagesPath": "C:\\Users\\dimae\\.nuget\\packages\\",
+        "outputPath": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Init\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dimae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market\\Market_Rules.csproj": {
+                "projectPath": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market\\Market_Rules.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\Market_Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\Market_Web.csproj",
+        "projectName": "Market_Web",
+        "projectPath": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\Market_Web.csproj",
+        "packagesPath": "C:\\Users\\dimae\\.nuget\\packages\\",
+        "outputPath": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\obj\\publish\\win-x64\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dimae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Data\\Market.Data.csproj": {
+                "projectPath": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Data\\Market.Data.csproj"
+              },
+              "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Init\\Market_Init.csproj": {
+                "projectPath": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Init\\Market_Init.csproj"
+              },
+              "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market\\Market_Rules.csproj": {
+                "projectPath": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market\\Market_Rules.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNet.Mvc": {
+              "target": "Package",
+              "version": "[5.2.9, )"
+            },
+            "Microsoft.AspNetCore.SignalR.Core": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[6.0.12, 6.0.12]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[6.0.12, 6.0.12]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+              "version": "[6.0.12, 6.0.12]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market\\Market_Rules.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market\\Market_Rules.csproj",
+        "projectName": "Market_Rules",
+        "projectPath": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market\\Market_Rules.csproj",
+        "packagesPath": "C:\\Users\\dimae\\.nuget\\packages\\",
+        "outputPath": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dimae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,176 @@
+﻿@using Market_Web.Pages
+@using Microsoft.AspNetCore.SignalR;
+@using Market.Data.Models;
+@model UsersEntity;
+@{
+    ViewData["Title"] = "Домашняя страница";
+}
+<link rel="stylesheet" type="text/css" href=~/css/siteStyle.css?2 />
+<link rel="stylesheet" type="text/css" href=~/css/authStyle.css?2 />
+<link rel="stylesheet" type="text/css" href=~/css/lobbyStyle.css?2 />
+<link rel="stylesheet" type="text/css" href=~/css/gameStyle.css?2 />
+<link rel="stylesheet" type="text/css" href=~/css/statisticStyle.css?2 />
+<body>
+    <div class="all">
+    <div class="white-rectangle"></div>
+    <div class="container-my">
+        <article class="game-playground" id="gamePlayground">
+            <div class="left-column">
+                <div class="calendar-container">
+                    <div class="calendar-list">
+                        <div class="calendar">
+                            <table>
+                                <tr><div style="text-align: center; background-color: #D4212A; color: white; border-radius:3px 3px 0 0;">Календарь</div></tr>
+                                <tr>
+                                    <th id="1">Янв</th>
+                                    <th id="2">Фев</th>
+                                    <th id="3">Мар</th>
+                                    <th id="4">Апр</th>
+                                </tr>
+                                <tr>
+                                    <th id="5">Май</th>
+                                    <th id="6">Июн</th>
+                                    <th id="7">Июл</th>
+                                    <th id="8">Авг</th>
+                                </tr>
+                                <tr>
+                                    <th id="9">Сен</th>
+                                    <th id="10">Окт</th>
+                                    <th id="11">Ноя</th>
+                                    <th id="12">Дек</th>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+                <div class="timer">
+                    <div class="in-timer">
+                        <div class="timer-title">
+                            время на ход
+                        </div>
+                        <div class="timer-text" id="timer">
+                            2:30
+                        </div>
+                    </div>
+                </div>
+                <div class="news-container">
+                    <div class="news-paper-hollow"> 
+                        <div class="news-paper">
+                            <div class="news-title"><div class="new-icon"></div>Новости</div>
+                            <div class="news" id="news"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="right-column">
+                <div class="resource-part">
+                    <div class="resource-line">
+                        <div class="one-resource" id="personalData"><img src="~/img/personal_icon.png" /> 10 </div><div class="line">|</div>
+                        <div class="one-resource" id="bankData"><img src="~/img/bank_icon.png" /> 10000 </div><div class="line">|</div>
+                        <div class="one-resource" id="profitData"><img src="~/img/profit_icon.png" /> 1024 </div><div class="line">|</div>
+                        <div class="one-resource" id="saleData"><img src="~/img/sales_icon.png" /> 800 </div><div class="line">|</div>
+                        <div class="one-resource" id="reputationData"><img src="~/img/reputation_icon.png" /> 100</div>
+                    </div>
+                </div>
+                <div class="center-rectangle">
+                    <div class="left-side-rectangle">
+                        <div class="center"></div>
+                        <div class="chat-container">
+                            <div id="chat" class="chat">
+                                <div class="menu-tel"></div>
+                                <div class="tel">
+                                    <div class="chat-text" id="chat-text"></div>
+                                    <div class="chat-inputs" id="inputForm">
+                                        <input type="text" id="chat-message" class="chat-input"/>
+                                        <input type="button" class="chat-button" id="sendBtn" value="Отправить"/>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="right-side-rectangle">
+                        <div class="element-slide-first" id="element-slide-fi">
+                            <button class="button" id="materialBtn"><img src="~/img/material_icon.png" /></button>
+                            <div class="buttons-element-slide-first" id="material-slide">
+                                <button class="buttonSupplier" id="chooseFirstMaterial"></button>
+                                <button class="buttonSupplier" id="chooseSecondMaterial"></button>
+                                <button class="buttonSupplier" id="chooseThirdMaterial"></button>
+                            </div>
+                        </div>
+                        <div class="element-slide-second" id="element-slide-s">
+                            <button class="button" id="fuelBtn"><img src="~/img/fuel_icon.png" /></button>
+                            <div class="buttons-element-slide-second" id="fuel-slide">
+                                <button class="buttonSupplier" id="chooseFirstFuel"></button>
+                                <button class="buttonSupplier" id="chooseSecondFuel"></button>
+                                <button class="buttonSupplier" id="chooseThirdFuel"></button>
+                            </div>
+                        </div>
+                        <div class="element-slide-third" id="element-slide-t">
+                            <button class="button" id="transportBtn"><img src="~/img/transport_icon.png" /></button>
+                            <div class="buttons-element-slide-third" id="transport-slide">
+                                <button class="buttonSupplier" id="chooseFirstTransport"></button>
+                                <button class="buttonSupplier" id="chooseSecondTransport"></button>
+                                <button class="buttonSupplier" id="chooseThirdTransport"></button>
+                            </div>
+                        </div>
+                        <div class="element-slide-forth" id="element-slide-f">
+                            <button class="button" id="operationBtn"><img src="~/img/contract_icon.png" /></button>
+                            <div class="buttons-element-slide-forth" id="operation-slide">
+                                <div class="menu-operations" id="menuOperations">
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </article>
+        <article class="game-lobby" id="gameLobby">
+            <div class="top-lobby">
+                <div class="list-room" id="rooms">
+                </div>
+                <div class="statistic">
+                    <div class="right-statistic">
+                        <div class="@Model.Id" id="userId"></div>
+                        <div class="elem-statistic" id="name-player">Имя: <u>@Model.Name</u></div>
+                        <div class="elem-statistic">Количество игр: <u>@Model.CountGames</u></div>
+                        <div class="elem-statistic">Количество побед: <u>@Model.CountWin</u></div>
+                        <div class="elem-statistic">Рейтинг: <u>@Model.Rating</u></div>
+                        <div class="elem-statistic">Дата регистрации: <u>@Model.DateRegistration.Date</u></div>
+                    </div>
+                </div>
+            </div>
+            <div class="create-section">
+                <input type="text" id="nameLobbyInput" class="gameLobbyInputName" placeholder="Введите имя лобби"/>
+                <input type="text" id="passwordLobbyInput" class="gameLobbyInputName" placeholder="Введите пароль лобби" />
+                <div class ="createButtonDiv">
+                    <button class="createButton" id="createRoomBtn">Создать&shy; комнату</button>
+                    <div>
+                        <input type="checkbox" class="passwordCheckbox" id="setPasswordCheckbox" onchange="changePasswordCheckbox()"><span style="font-size:14px;">Задать пароль</span>
+                    </div>
+                </div>
+                @using (Html.BeginForm("Index", "Home"))
+                {
+                    <input type="submit" class="exitButton" value="Выйти"></input>
+                }
+            </div>
+        </article>
+        <article class="game-statistic" id="gameStatistic">
+            <div class="stat-container">
+                <div class="div-for-table-stat" id="div-for-t-stat">
+
+                </div>
+                @using (Html.BeginForm("ComeBackGame", "Home", Model, FormMethod.Post))
+                {
+                    <input type="submit" class="createButton" id="comeBackToLobby" value="Выйти в лобби"></input>
+                }
+            </div>
+        </article>
+    </div>
+    <div class="white-rectangle"></div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/6.0.1/signalr.js"></script>
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="~/js/game.js"></script>
+</body>
+

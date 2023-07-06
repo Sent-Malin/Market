@@ -1,0 +1,105 @@
+.game-lobby {
+    padding: 15px;
+    width: 100%;
+    height: 600px;
+}
+
+.list-room {
+    height: 400px;
+    width: 60%;
+}
+
+.room {
+    width: 105%;
+    border: 2px solid gray;
+}
+
+.roomItem {
+    display: flex;
+    justify-content: center;
+    min-height: 60px;
+    padding-left: 10px;
+    padding-top:10px;
+    padding-right: 10px;
+}
+
+.roomItemBottom {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+
+.passwordInput {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.errorPassword{
+    color: red;
+}
+
+.gameLobbyRoomName {
+    font-size: 17px;
+    margin-top: 6px;
+    width: 60%;
+}
+
+.gameLobbyRoomJoinBtn {
+    width: 20%;
+    margin-left: 20%;
+}
+
+.gameLobbyRoomStartBtn {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 20%;
+    margin-left: 6%;
+}
+
+.top-lobby{
+    display:flex;
+    width:100%;
+}
+
+.statistic {
+    width: 30%;
+    margin-left: 10%;
+    border: 2px solid gray;
+    padding: 10px;
+    height: 30%;
+}
+
+.elem-statistic{
+    text-align:left;
+    margin-bottom: 5px;
+}
+
+.create-section {
+    display: flex;
+    justify-content: center;
+    min-height: 50px;
+    padding: 15px;
+    text-align: center;
+}
+
+.gameLobbyInputName {
+    width: 30%;
+    min-height: 50px;
+    margin-right: 10px;
+}
+
+.pointer-eventsNone{
+    pointer-events: none;
+}
+
+.createButtonDiv {
+    width: 30%;
+    font-size: 20px;
+}
+
+.createButton {
+    width: 100%;
+    height: 100%;
+}

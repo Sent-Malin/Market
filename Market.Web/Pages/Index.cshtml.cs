@@ -1,20 +1,17 @@
-﻿using Microsoft.AspNetCore.Mvc;
+using Market_Web.Models;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace Market_Web.Pages
 {
-    public class IndexModel : PageModel
+    public class LoginModel : PageModel
     {
-        private readonly ILogger<IndexModel> _logger;
-
-        public IndexModel(ILogger<IndexModel> logger)
+        public Errors Error { get; set; }
+        public string ErrorMessage { get; set; }
+        public LoginModel(string errorMessage="", Errors error=Errors.None)
         {
-            _logger = logger;
-        }
-
-        public void OnGet()
-        {
-
+            ErrorMessage = errorMessage;
+            Error = error;
         }
     }
 }

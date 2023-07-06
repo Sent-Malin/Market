@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Market_Init": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:50161;http://localhost:50163"
+    }
+  }
+}

@@ -1,0 +1,1129 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\obj\\Release\\net6.0\\win-x86\\scopedcss\\projectbundle\\Market_Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Market_Web.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\css\\authStyle.css",
+      "PackagePath": "staticwebassets\\css\\authStyle.css"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\css\\gameStyle.css",
+      "PackagePath": "staticwebassets\\css\\gameStyle.css"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\css\\lobbyStyle.css",
+      "PackagePath": "staticwebassets\\css\\lobbyStyle.css"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\css\\siteStyle.css",
+      "PackagePath": "staticwebassets\\css\\siteStyle.css"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\css\\statisticStyle.css",
+      "PackagePath": "staticwebassets\\css\\statisticStyle.css"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\fonts\\ofont.ru_Piazzolla.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ofont.ru_Piazzolla.ttf"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\img\\bank_icon.png",
+      "PackagePath": "staticwebassets\\img\\bank_icon.png"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\img\\book1.png",
+      "PackagePath": "staticwebassets\\img\\book1.png"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\img\\contract_icon.png",
+      "PackagePath": "staticwebassets\\img\\contract_icon.png"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\img\\eye.png",
+      "PackagePath": "staticwebassets\\img\\eye.png"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\img\\fuel_icon.png",
+      "PackagePath": "staticwebassets\\img\\fuel_icon.png"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\img\\material_icon.png",
+      "PackagePath": "staticwebassets\\img\\material_icon.png"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\img\\paper-phone.png",
+      "PackagePath": "staticwebassets\\img\\paper-phone.png"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\img\\personal_icon.png",
+      "PackagePath": "staticwebassets\\img\\personal_icon.png"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\img\\profit_icon.png",
+      "PackagePath": "staticwebassets\\img\\profit_icon.png"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\img\\reputation_icon.png",
+      "PackagePath": "staticwebassets\\img\\reputation_icon.png"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\img\\sales_icon.png",
+      "PackagePath": "staticwebassets\\img\\sales_icon.png"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\img\\transport_icon.png",
+      "PackagePath": "staticwebassets\\img\\transport_icon.png"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\img\\wood-wall.jpg",
+      "PackagePath": "staticwebassets\\img\\wood-wall.jpg"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\js\\game.js",
+      "PackagePath": "staticwebassets\\js\\game.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\js\\login.js",
+      "PackagePath": "staticwebassets\\js\\login.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\README.md",
+      "PackagePath": "staticwebassets\\lib\\signalr\\README.md"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\browser\\signalr.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\browser\\signalr.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\browser\\signalr.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\browser\\signalr.min.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\browser\\signalr.min.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\browser\\signalr.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\browser\\signalr.min.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\AbortController.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\AbortController.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\AbortController.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\AbortController.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\AccessTokenHttpClient.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\AccessTokenHttpClient.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\AccessTokenHttpClient.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\AccessTokenHttpClient.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\DefaultHttpClient.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\DefaultHttpClient.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\DefaultHttpClient.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\DefaultHttpClient.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\DefaultReconnectPolicy.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\DefaultReconnectPolicy.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\DefaultReconnectPolicy.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\DefaultReconnectPolicy.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\Errors.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\Errors.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\Errors.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\Errors.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\FetchHttpClient.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\FetchHttpClient.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\FetchHttpClient.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\FetchHttpClient.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\HandshakeProtocol.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\HandshakeProtocol.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\HandshakeProtocol.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\HandshakeProtocol.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\HeaderNames.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\HeaderNames.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\HeaderNames.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\HeaderNames.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\HttpClient.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\HttpClient.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\HttpClient.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\HttpClient.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\HttpConnection.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\HttpConnection.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\HttpConnection.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\HttpConnection.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\HubConnection.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\HubConnection.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\HubConnection.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\HubConnection.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\HubConnectionBuilder.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\HubConnectionBuilder.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\HubConnectionBuilder.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\HubConnectionBuilder.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\IConnection.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\IConnection.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\IConnection.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\IConnection.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\IHttpConnectionOptions.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\IHttpConnectionOptions.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\IHttpConnectionOptions.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\IHttpConnectionOptions.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\IHubProtocol.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\IHubProtocol.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\IHubProtocol.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\IHubProtocol.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\ILogger.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\ILogger.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\ILogger.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\ILogger.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\IRetryPolicy.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\IRetryPolicy.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\IRetryPolicy.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\IRetryPolicy.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\ITransport.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\ITransport.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\ITransport.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\ITransport.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\JsonHubProtocol.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\JsonHubProtocol.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\JsonHubProtocol.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\JsonHubProtocol.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\Loggers.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\Loggers.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\Loggers.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\Loggers.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\LongPollingTransport.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\LongPollingTransport.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\LongPollingTransport.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\LongPollingTransport.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\Polyfills.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\Polyfills.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\Polyfills.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\Polyfills.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\ServerSentEventsTransport.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\ServerSentEventsTransport.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\ServerSentEventsTransport.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\ServerSentEventsTransport.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\Stream.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\Stream.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\Stream.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\Stream.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\Subject.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\Subject.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\Subject.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\Subject.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\TextMessageFormat.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\TextMessageFormat.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\TextMessageFormat.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\TextMessageFormat.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\Utils.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\Utils.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\Utils.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\Utils.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\WebSocketTransport.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\WebSocketTransport.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\WebSocketTransport.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\WebSocketTransport.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\XhrHttpClient.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\XhrHttpClient.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\XhrHttpClient.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\XhrHttpClient.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\browser-index.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\browser-index.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\browser-index.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\browser-index.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\index.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\index.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\cjs\\index.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\cjs\\index.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\AbortController.d.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\AbortController.d.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\AbortController.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\AbortController.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\AbortController.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\AbortController.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\AccessTokenHttpClient.d.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\AccessTokenHttpClient.d.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\AccessTokenHttpClient.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\AccessTokenHttpClient.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\AccessTokenHttpClient.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\AccessTokenHttpClient.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\DefaultHttpClient.d.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\DefaultHttpClient.d.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\DefaultHttpClient.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\DefaultHttpClient.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\DefaultHttpClient.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\DefaultHttpClient.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\DefaultReconnectPolicy.d.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\DefaultReconnectPolicy.d.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\DefaultReconnectPolicy.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\DefaultReconnectPolicy.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\DefaultReconnectPolicy.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\DefaultReconnectPolicy.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\Errors.d.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\Errors.d.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\Errors.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\Errors.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\Errors.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\Errors.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\FetchHttpClient.d.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\FetchHttpClient.d.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\FetchHttpClient.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\FetchHttpClient.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\FetchHttpClient.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\FetchHttpClient.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\HandshakeProtocol.d.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\HandshakeProtocol.d.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\HandshakeProtocol.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\HandshakeProtocol.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\HandshakeProtocol.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\HandshakeProtocol.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\HeaderNames.d.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\HeaderNames.d.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\HeaderNames.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\HeaderNames.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\HeaderNames.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\HeaderNames.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\HttpClient.d.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\HttpClient.d.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\HttpClient.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\HttpClient.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\HttpClient.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\HttpClient.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\HttpConnection.d.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\HttpConnection.d.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\HttpConnection.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\HttpConnection.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\HttpConnection.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\HttpConnection.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\HubConnection.d.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\HubConnection.d.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\HubConnection.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\HubConnection.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\HubConnection.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\HubConnection.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\HubConnectionBuilder.d.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\HubConnectionBuilder.d.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\HubConnectionBuilder.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\HubConnectionBuilder.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\HubConnectionBuilder.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\HubConnectionBuilder.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\IConnection.d.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\IConnection.d.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\IConnection.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\IConnection.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\IConnection.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\IConnection.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\IHttpConnectionOptions.d.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\IHttpConnectionOptions.d.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\IHttpConnectionOptions.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\IHttpConnectionOptions.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\IHttpConnectionOptions.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\IHttpConnectionOptions.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\IHubProtocol.d.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\IHubProtocol.d.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\IHubProtocol.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\IHubProtocol.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\IHubProtocol.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\IHubProtocol.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\ILogger.d.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\ILogger.d.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\ILogger.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\ILogger.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\ILogger.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\ILogger.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\IRetryPolicy.d.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\IRetryPolicy.d.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\IRetryPolicy.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\IRetryPolicy.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\IRetryPolicy.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\IRetryPolicy.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\ITransport.d.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\ITransport.d.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\ITransport.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\ITransport.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\ITransport.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\ITransport.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\JsonHubProtocol.d.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\JsonHubProtocol.d.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\JsonHubProtocol.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\JsonHubProtocol.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\JsonHubProtocol.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\JsonHubProtocol.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\Loggers.d.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\Loggers.d.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\Loggers.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\Loggers.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\Loggers.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\Loggers.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\LongPollingTransport.d.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\LongPollingTransport.d.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\LongPollingTransport.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\LongPollingTransport.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\LongPollingTransport.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\LongPollingTransport.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\Polyfills.d.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\Polyfills.d.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\Polyfills.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\Polyfills.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\Polyfills.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\Polyfills.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\ServerSentEventsTransport.d.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\ServerSentEventsTransport.d.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\ServerSentEventsTransport.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\ServerSentEventsTransport.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\ServerSentEventsTransport.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\ServerSentEventsTransport.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\Stream.d.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\Stream.d.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\Stream.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\Stream.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\Stream.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\Stream.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\Subject.d.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\Subject.d.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\Subject.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\Subject.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\Subject.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\Subject.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\TextMessageFormat.d.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\TextMessageFormat.d.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\TextMessageFormat.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\TextMessageFormat.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\TextMessageFormat.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\TextMessageFormat.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\Utils.d.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\Utils.d.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\Utils.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\Utils.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\Utils.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\Utils.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\WebSocketTransport.d.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\WebSocketTransport.d.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\WebSocketTransport.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\WebSocketTransport.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\WebSocketTransport.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\WebSocketTransport.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\XhrHttpClient.d.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\XhrHttpClient.d.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\XhrHttpClient.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\XhrHttpClient.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\XhrHttpClient.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\XhrHttpClient.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\browser-index.d.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\browser-index.d.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\browser-index.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\browser-index.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\browser-index.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\browser-index.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\index.d.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\index.d.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\index.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\index.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\esm\\index.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\esm\\index.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\webworker\\signalr.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\webworker\\signalr.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\webworker\\signalr.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\webworker\\signalr.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\webworker\\signalr.min.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\webworker\\signalr.min.js"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\dist\\webworker\\signalr.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\webworker\\signalr.min.js.map"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\package.json",
+      "PackagePath": "staticwebassets\\lib\\signalr\\package.json"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\src\\AbortController.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\src\\AbortController.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\src\\AccessTokenHttpClient.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\src\\AccessTokenHttpClient.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\src\\DefaultHttpClient.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\src\\DefaultHttpClient.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\src\\DefaultReconnectPolicy.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\src\\DefaultReconnectPolicy.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\src\\Errors.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\src\\Errors.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\src\\FetchHttpClient.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\src\\FetchHttpClient.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\src\\HandshakeProtocol.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\src\\HandshakeProtocol.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\src\\HeaderNames.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\src\\HeaderNames.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\src\\HttpClient.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\src\\HttpClient.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\src\\HttpConnection.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\src\\HttpConnection.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\src\\HubConnection.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\src\\HubConnection.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\src\\HubConnectionBuilder.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\src\\HubConnectionBuilder.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\src\\IConnection.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\src\\IConnection.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\src\\IHttpConnectionOptions.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\src\\IHttpConnectionOptions.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\src\\IHubProtocol.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\src\\IHubProtocol.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\src\\ILogger.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\src\\ILogger.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\src\\IRetryPolicy.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\src\\IRetryPolicy.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\src\\ITransport.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\src\\ITransport.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\src\\JsonHubProtocol.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\src\\JsonHubProtocol.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\src\\Loggers.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\src\\Loggers.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\src\\LongPollingTransport.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\src\\LongPollingTransport.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\src\\Polyfills.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\src\\Polyfills.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\src\\ServerSentEventsTransport.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\src\\ServerSentEventsTransport.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\src\\Stream.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\src\\Stream.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\src\\Subject.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\src\\Subject.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\src\\TextMessageFormat.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\src\\TextMessageFormat.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\src\\Utils.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\src\\Utils.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\src\\WebSocketTransport.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\src\\WebSocketTransport.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\src\\XhrHttpClient.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\src\\XhrHttpClient.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\src\\browser-index.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\src\\browser-index.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\src\\index.ts",
+      "PackagePath": "staticwebassets\\lib\\signalr\\src\\index.ts"
+    },
+    {
+      "Id": "D:\\GrowArchive\\Диплом\\Программа, ver-3\\Правила игры\\Market\\Market.Web\\wwwroot\\lib\\signalr\\src\\third-party-notices.txt",
+      "PackagePath": "staticwebassets\\lib\\signalr\\src\\third-party-notices.txt"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\win-x86\\staticwebassets\\msbuild.Market_Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\win-x86\\staticwebassets\\msbuild.build.Market_Web.props",
+      "PackagePath": "build\\Market_Web.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\win-x86\\staticwebassets\\msbuild.buildMultiTargeting.Market_Web.props",
+      "PackagePath": "buildMultiTargeting\\Market_Web.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\win-x86\\staticwebassets\\msbuild.buildTransitive.Market_Web.props",
+      "PackagePath": "buildTransitive\\Market_Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

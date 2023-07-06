@@ -1,0 +1,72 @@
+﻿
+@font-face {
+    font-family: "MyFont";
+    src: url(/fonts/ofont.ru_Piazzolla.ttf) format("truetype");
+}
+
+.authorization {
+    margin-top:15%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.displayNone {
+    display:none;
+}
+
+.displayBlock{
+    display:block;
+}
+
+.box-name {
+    max-width: 253px;
+    height: 379px;
+    padding: 10px;
+    background-image: url("/img/paper-phone.png");
+    font-family:MyFont;
+    font-size: 19px;
+}
+
+.authPlayerInputName{
+    width:100%;
+}
+
+.column {
+    display:block;
+    padding:10px;
+}
+
+.ErrorMessage {
+    color: red;
+    font-size: 16px;
+    margin:0;
+}
+
+.authButtonTop {
+    margin-top: 5%;
+    font-family: inherit;
+}
+.regButtonTop {
+    margin-top: 5%;
+    margin-left: 3%;
+    font-family: inherit
+}
+.authButton {
+    width: 100%;
+    max-width: 170px;
+}
+.authInput {
+    margin-bottom: 5px;
+    width: 100%;
+    max-width: 180px;
+    background: none;
+    border: none;
+    border-radius: 0;
+    border-bottom: 1px solid black;
+}
+
+.authButton{
+    margin-top:6px;
+    font-size: 16px;
+}
