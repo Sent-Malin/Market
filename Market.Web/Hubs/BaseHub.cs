@@ -12,8 +12,8 @@ namespace Market_Web.Hubs
         const int CountTurn = 12;
         const int MaxRatingPlus = 50;
         const int RatingDownStep = 25;
-        public List<Room> rooms;
-        public List<Game> games;
+        private List<Room> rooms;
+        private List<Game> games;
         public MarketDbContext db = new MarketDbContext();
 
         public GameHub()

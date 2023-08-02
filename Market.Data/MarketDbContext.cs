@@ -19,7 +19,7 @@ namespace Market.Data
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server=.\\sqlexpress;Database=Mark;User Id=testPublic; Password=123456; Trusted_Connection=True;MultipleActiveResultSets=true;TrustServerCertificate=Yes;");
+            optionsBuilder.UseSqlServer("Server=localhost;Database=master;Trusted_Connection=True;MultipleActiveResultSets=true;TrustServerCertificate=Yes;");
         }
 
         public void PlayersOffline()

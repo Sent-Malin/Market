@@ -13,12 +13,12 @@ public class Market
 
     public string Id { get; private set; }
     public int CurrentTurn { get; private set; } = 0;
-    public Company[] Companies { get; private set; } = new Company[3];
+    public Company[] Companies { get; set; } = new Company[3];
     // Списки доступных новостей, поставщиков и исследований и состояний
-    public List<New> News { get; private set; }
-    public List<Supplier> Suppliers { get; private set; }
-    public List<Operation> Operations { get; private set; }
-    public List<Condition> Conditions { get; private set; } = new List<Condition>();
+    private List<New> News;
+    private List<Condition> Conditions = new List<Condition>();
+    public List<Supplier> Suppliers { get; set; }
+    public List<Operation> Operations { get; set; }
 
     // Событие для оповещений о:
 
